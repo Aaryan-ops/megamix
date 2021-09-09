@@ -1,0 +1,46 @@
+.cards {
+  width: 80vw;
+  background-color: rgb(153, 185, 223);
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: black;
+  border-radius: 13px;
+}
+h3 {
+  color: black;
+}
+q {
+  color: brown;
+}
+.card {
+  display: flex;
+  width: 54vw;
+
+  background-color: pink;
+
+  color: black;
+  margin-left: 124px;
+  border-bottom: 13px solid orange;
+  border-radius: 19px;
+}
+.im1,
+.im2,
+.im3 {
+  margin-left: -104px;
+  margin-top: -302px;
+
+  height: 35%;
+  position: absolute;
+}
+button {
+  height: 200px;
+  width: 200px;
+}
+button img {
+  height: 200px;
+}
+p {
+  margin-left: 42px;
+  color: white;
+}
