@@ -1,0 +1,11 @@
+<React.Fragment><h1>hi</h1><div>ooye</div></React.Fragment>
+
+text-transform:capitalize
+text-shadow:
+
+margin: auto;
+height:300px;
+justify-content:center and margin auto
+paste google font link in index.html only?
+
+npm i react-router-dom

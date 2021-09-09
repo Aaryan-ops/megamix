@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/megamix/static/css/main.c3b09143.chunk.css",
+    "main.js": "/megamix/static/js/main.14770c9c.chunk.js",
+    "main.js.map": "/megamix/static/js/main.14770c9c.chunk.js.map",
+    "runtime-main.js": "/megamix/static/js/runtime-main.6e804423.js",
+    "runtime-main.js.map": "/megamix/static/js/runtime-main.6e804423.js.map",
+    "static/js/2.ea02c7dd.chunk.js": "/megamix/static/js/2.ea02c7dd.chunk.js",
+    "static/js/2.ea02c7dd.chunk.js.map": "/megamix/static/js/2.ea02c7dd.chunk.js.map",
+    "index.html": "/megamix/index.html",
+    "static/css/main.c3b09143.chunk.css.map": "/megamix/static/css/main.c3b09143.chunk.css.map",
+    "static/js/2.ea02c7dd.chunk.js.LICENSE.txt": "/megamix/static/js/2.ea02c7dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e804423.js",
+    "static/js/2.ea02c7dd.chunk.js",
+    "static/css/main.c3b09143.chunk.css",
+    "static/js/main.14770c9c.chunk.js"
+  ]
+}
